@@ -1,0 +1,3 @@
+# MinerU batch PDF → Markdown tooling
+# Install MinerU itself with uv (recommended) or pip — see README.md
+mineru[all]>=2.0.0

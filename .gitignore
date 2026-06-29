@@ -1,0 +1,19 @@
+# Generated outputs
+output_md/**
+!output_md/.gitkeep
+logs/*.log
+conversion_report.md
+conversion_report_api.md
+
+# Large archives / build artifacts (e.g. output_md.zip, skill zips)
+*.zip
+
+# Input PDFs (not distributed in the repo)
+input_pdfs/**
+!input_pdfs/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
